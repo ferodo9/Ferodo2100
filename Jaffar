@@ -1,12 +1,1 @@
-vless://46cc1c7e-0977-42d3-9495-3719e8fda83f@45.13.226.36:707?security=&seed=SzZOMslO1i&encryption=none&headerType=none&type=kcp#1
-vless://cfade807-3cef-44fe-801d-011d01345b44@45.13.226.36:708?security=&seed=AtmDxBaL0w&encryption=none&headerType=srtp&type=kcp#2
-vless://88888134-4a5e-48a4-b56e-dcecb6eb0bd7@45.13.226.36:709?security=&seed=AHyEvwDyDS&encryption=none&headerType=utp&type=kcp#3
-vless://25ec81bb-6a80-4988-acad-f999d799b09a@45.13.226.36:710?security=&seed=x20eiQYKxE&encryption=none&headerType=wechat-video&type=kcp#4
-vless://cd702144-ec43-4025-b4fd-d96fa20c2afb@45.13.226.36:711?security=&seed=ZChYkz30Hg&encryption=none&headerType=dtls&type=kcp#5
-vless://cef23174-6524-4308-8c29-9669b71e4d71@45.13.226.36:712?security=&seed=63RQ7bkyJ3&encryption=none&headerType=wireguard&type=kcp#6
-vless://c944212b-916c-44be-ae80-e082b770ae46@45.13.226.36:713?security=&seed=CowxiMM4sf&encryption=none&headerType=dns&type=kcp#7
-trojan://fh8Fap2M7g@45.13.226.36:593?security=none&seed=XIwTUqPHOn&headerType=wireguard&type=kcp#8
-vless://955b28e9-80cc-4fcd-8432-06e7aeb54aa5@87.107.164.82:750?path=%2F&security=none&encryption=none&host=87.107.164.82&type=ws#%F0%9F%91%91%20Emergency%20%F0%9F%8C%905GB%F0%9F%8C%90%20%20%28%20MCI%20%26%20Irancell%20%29
-vless://a0f9fc9a-739d-400b-a0d8-5481a4936a3c@87.107.164.82:706?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%91%20Emergency%20%F0%9F%8C%905GB%F0%9F%8C%90%20%20%28%20MCI%20%26%20Irancell%20%29
-npvt-ssh://eyJzc2hDb25maWdUeXBlIjoiU1NILURpcmVjdCIsInJlbWFya3MiOiLwn5GRTWFpbiBTZXJ2ZXLwn5GRIPCfjJDiiJ7wn4yQKCBNQ0kgKSIsInNzaEhvc3QiOiI0NS4xMy4yMjYuMzYiLCJzc2hQb3J0IjoyMiwic3NoVXNlcm5hbWUiOiJyb290Iiwic3NoUGFzc3dvcmQiOiJmYXJ6YWQxMCIsInNuaSI6IiIsInRsc1ZlcnNpb24iOiJERUZBVUxUIiwiaHR0cFByb3h5IjoiIiwiYXV0aGVudGljYXRlUHJveHkiOmZhbHNlLCJwcm94eVVzZXJuYW1lIjoiIiwicHJveHlQYXNzd29yZCI6IiIsInBheWxvYWQiOiIiLCJkbnNUVE1vZGUiOiJVRFAiLCJkbnNTZXJ2ZXIiOiIiLCJuYW1lc2VydmVyIjoiIiwicHVibGljS2V5IjoiIiwidWRwZ3dQb3J0Ijo3MzAwLCJ1ZHBnd1RyYW5zcGFyZW50RE5TIjp0cnVlfQ==
 
