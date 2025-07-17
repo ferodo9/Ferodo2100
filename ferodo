@@ -1,7 +1,7 @@
 vless://ec67af79-71f7-459f-89e7-080e9319b151@87.107.164.82:708?path=%2F&security=none&encryption=none&host=87.107.164.82&type=ws#%F0%9F%91%91%201Emergency%20%F0%9F%8C%905GB%F0%9F%8C%90%20%20%28%20MCI%20%26%20Irancell%20%29
 vless://8156287e-8350-45eb-83ca-66695aeb183f@87.107.164.82:707?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%91%202Emergency%20%F0%9F%8C%905GB%F0%9F%8C%90%20%20%28%20MCI%20%26%20Irancell%20%29
 vless://b47ab16d-1929-46be-b169-46a405a7ef5f@kh.stan2ard-tcp.forward.fallinlove.sbs:117?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%91%201%20Main%20Server%20%F0%9F%8C%9010GB%F0%9F%8C%90%20%20%28%20MCI%20%26%20Irancell%20%29
-vless://874d86d8-4c62-4ca8-8b9e-97f0936d9128@kh.stan2ard-tcp.forward.fallinlove.sbs:118?security=none&seed=xArokxuftY&encryption=none&headerType=wireguard&type=kcp#%F0%9F%91%91%202%20Main%20Server%20%F0%9F%8C%9010GB%F0%9F%8C%90%20%20%28%20MCI%20%26%20Irancell%20%29
+vless://874d86d8-4c62-4ca8-8b9e-97f0936d9128@kh.stan2ard-tcp.forward.fallinlove.sbs:118?path=%2F&security=none&encryption=none&type=httpupgrade#%F0%9F%91%91%202%20Main%20Server%20%F0%9F%8C%9010GB%F0%9F%8C%90%20%20%28%20MCI%20%26%20Irancell%20%29
 vless://4c92da80-b7aa-4230-a241-c82daae03749@87.107.8.162:126?security=&seed=7URDY2xxbA&encryption=none&headerType=none&type=kcp#IR2%20KCP-k77zv1at
 vless://84b55463-718c-4548-80c1-3ed1a54fda13@87.107.8.162:104?security=&encryption=none&headerType=&type=tcp#IR2%20TCP-484gfq4i
  
