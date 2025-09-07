@@ -1,4 +1,4 @@
-vless://d5050ede-18e7-418e-ba09-7ae9ac5b236e@87.107.164.82:108?path=%2F&security=none&encryption=none&type=ws#%E2%9C%85%20%F0%9F%91%91%20Emergency%201%20%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%20%F0%9F%8C%9025GB%F0%9F%8C%90
-vless://134a2d78-bc5c-41c2-a67f-aa41b89d47c4@87.107.164.82:107?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%20%F0%9F%91%91%20Emergency%202%20%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%20%F0%9F%8C%9025GB%F0%9F%8C%90
+vless://90e7451a-0592-40a8-aa5a-84aa2dea8f15@87.107.164.82:118?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%20%F0%9F%91%91%20TCP%201%20%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%20%F0%9F%8C%9025GB%F0%9F%8C%90
+vless://6d424ed6-8964-44e3-9f04-7c535fdeb5ff@87.107.164.82:117?path=%2F&security=none&encryption=none&type=ws#%E2%9C%85%20%F0%9F%91%91%20WS%202%20%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%20%F0%9F%8C%9025GB%F0%9F%8C%90
 vless://1@s:1?security=&encryption=none&headerType=wireguard&type=kcp#%E2%9D%8C%20%F0%9F%91%91%20Emergency%203%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%F0%9F%8C%9025GB%F0%9F%8C%90%20%28100%20Toman%29
 vless://1@s:1?security=&encryption=none&headerType=wireguard&type=kcp#%F0%9F%86%99%20Update%20Number%20%F0%9F%86%99%20%3D%20%201
