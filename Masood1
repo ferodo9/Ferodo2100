@@ -1,4 +1,2 @@
-vless://90e7451a-0592-40a8-aa5a-84aa2dea8f15@87.107.164.82:118?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%20%F0%9F%91%91%20TCP%201%20%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%20%F0%9F%8C%9025GB%F0%9F%8C%90
-vless://6d424ed6-8964-44e3-9f04-7c535fdeb5ff@87.107.164.82:707?path=%2F&security=none&encryption=none&type=ws#%E2%9C%85%20%F0%9F%91%91%20WS%202%20%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%20%F0%9F%8C%9025GB%F0%9F%8C%90
-vless://1@s:1?security=&encryption=none&headerType=wireguard&type=kcp#%E2%9D%8C%20%F0%9F%91%91%20Emergency%203%20%28%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%29%20%F0%9F%8C%9025GB%F0%9F%8C%90%20%28100%20Toman%29
-vless://1@s:1?security=&encryption=none&headerType=wireguard&type=kcp#%F0%9F%86%99%20Update%20Number%20%F0%9F%86%99%20%3D%20%201
+vless://551ce439-7407-4673-9b03-a685284694f0@87.107.164.82:118?type=tcp&encryption=none&security=none#Ferodo1
+vless://cfb090fa-0605-4780-83cf-fcb102623a92@87.107.164.82:707?type=ws&encryption=none&path=%2F&host=&security=none#Ferodo2
